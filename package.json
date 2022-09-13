@@ -10,9 +10,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {"node": "<10.*.*"}}
   "devDependencies": {
     "@babel/core": "^7.18.13",
-    "@babel/node": "^117.18.10",
+    "@babel/node": "^7.18.10",
     "@babel/preset-env": "^7.18.10",
     "nodemon": "^2.0.19"
   },
